@@ -1,2 +1,2 @@
 # python-pycharm
-Código Python - Proyectos con PyCharm
+Ejercicios de código Python, proyectos con PyCharm
